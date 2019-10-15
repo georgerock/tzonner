@@ -1,6 +1,6 @@
 # tzonner
 
-FIXME
+CRUD application for timezones with Compojure API
 
 ## Usage
 
@@ -21,4 +21,4 @@ java -jar target/server.jar
 
 ## License
 
-Copyright ©  FIXME
+Copyright ©  WhiteCity Code

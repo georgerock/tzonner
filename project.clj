@@ -1,5 +1,5 @@
  (defproject tzonner "0.1.0-SNAPSHOT"
-   :description "FIXME: write description"
+   :description "TimeZonnes CRUD"
    :dependencies [[org.clojure/clojure "1.10.0"]
                   [metosin/compojure-api "2.0.0-alpha30"]]
    :ring {:handler tzonner.handler/app}
